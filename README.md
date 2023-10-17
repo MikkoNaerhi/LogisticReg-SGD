@@ -5,7 +5,7 @@ This project implements a Logistic Regression model optimized with Stochastic Gr
 
 ## Features
 - Logistic Regression implementation from scratch
-- Utilizes Stochastic Gradient Descent for optimization
+- Stochastic Gradient Descent for optimization
 - Evaluation using ROC AUC score and confusion matrix
 
 ## How to Run
