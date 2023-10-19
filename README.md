@@ -11,4 +11,4 @@ This project implements a Logistic Regression model optimized with Stochastic Gr
 ## How to Run
 1. Clone this repository.
 2. Install the dependencies: `pip install -r requirements.txt`.
-3. Run `python Logistic_Regression.py`.
+3. Run `python log_reg.py`.
